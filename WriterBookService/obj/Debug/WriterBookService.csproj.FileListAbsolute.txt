@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\WriterBookService.exe.config
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\WriterBookService.exe
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\WriterBookService.pdb
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.Forms.MainForm.resources
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.Properties.Resources.resources
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBo.EE2F53D4.Up2Date
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.exe
+C:\Users\HP\Desktop\WriterBookService-main\WriterBookService\obj\Debug\WriterBookService.pdb
